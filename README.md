@@ -56,6 +56,8 @@ Initialize all m ∈ M and w ∈ W to free
 
 Convinced..huh? 😉 and want this spell for yourself?
 
+![usage](https://media.giphy.com/media/H2SiDhuGVJRWU/giphy.gif)
+
 Here you go:
 
 - clone or Download this repo ⏬
